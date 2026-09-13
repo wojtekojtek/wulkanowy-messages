@@ -19,23 +19,6 @@
         "isVisible": true
     },
     {
-        "id": 96,
-        "title": "Witaj w Wolnym Wulkanowym!",
-        "content": "Tutaj będą pojawiały się informacje o nowych wersjach aplikacji. Miłego korzystania z apki!",
-        "type": "DASHBOARD_MESSAGE",
-        "types": [
-            "DASHBOARD_MESSAGE"
-        ],
-        "messageTypes": [
-            "DASHBOARD_MESSAGE"
-        ],
-        "priority": "LOW",
-        "isXVisible": true,
-        "isOkVisible": true,
-        "isDismissible": true,
-        "isVisible": true
-    },
-    {
         "id": 94,
         "title": "Dostępna aktualizacja",
         "content": "Przywróciliśmy działanie aplikacji. Przejdź do sklepu Play, by zaktualizować",
